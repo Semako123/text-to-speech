@@ -1,25 +1,5 @@
-Title: The Enchanted Lantern
+    Title: The Enchanted Lantern
 
-Once in a quaint village, there resided a young lad named Lucas. He was known for his insatiable curiosity and boundless sense of adventure. The village was charming, but Lucas always yearned for something more, a taste of excitement beyond its borders.
+    Once in a quaint village, there resided a young lad named Lucas. He was known for his insatiable curiosity and boundless sense of adventure. The village was charming, but Lucas always yearned for something more, a taste of excitement beyond its borders.
 
-One day, Lucas heard whispers about an old tower hidden deep within the nearby woods. It was said to hold a mysterious and magical artifact, an enchanted lantern with the power to grant any one wish to its possessor. The legend intrigued Lucas, and he could not resist the allure of the tower and the promise it held.
-
-As the evening sun painted the sky with hues of orange and pink, Lucas embarked on his quest. He ventured into the shadowy woods, the towering trees whispering secrets as he passed. His heart raced with anticipation as he approached the tower.
-
-The door creaked open with a slight push, revealing a soft glow emanating from within. And there, on a dusty pedestal, rested the fabled enchanted lantern. It was a sight to behold, adorned with intricate carvings of mythical creatures.
-
-A gentle, melodic voice filled the air, "Make your one true wish, young soul, and I shall grant it."
-
-Lucas hesitated, pondering the possibilities. He thought of riches and fame, but as he glanced back at the village in his mind, he remembered its struggling inhabitants. He knew exactly what he wanted.
-
-"I wish for my village to flourish, with prosperity and happiness for all," Lucas said, holding the lantern tightly.
-
-The lantern shimmered and glowed brighter, releasing a burst of golden light that enveloped Lucas. Suddenly, he found himself outside the tower, and when he turned back, it had vanished, along with the enchanted lantern.
-
-Eager to witness the fulfillment of his wish, Lucas hurried back to the village. To his astonishment, he found the village transformed. Lush green fields stretched far and wide, and the villagers wore bright smiles on their faces. There were new homes, a bountiful harvest, and laughter filled the air.
-
-Word of Lucas's wish spread like wildfire, and soon the village became a hub of prosperity. The villagers were grateful to the young boy who had selflessly granted them a better life. From that day on, Lucas became known as the hero of the village.
-
-As time passed, Lucas never forgot the lessons he learned that day – the true value of selflessness and the power of one's heart. He grew up to be a wise and compassionate leader, always putting the needs of others before his own. The enchanted lantern may have disappeared, but its magic had left an everlasting mark on Lucas and his village.
-
-And so, the tale of the enchanted lantern and the boy who made an altruistic wish continued to be told through generations, reminding everyone that sometimes the most extraordinary adventures begin with a simple act of kindness.
+    One day, Lucas heard whispers about an old tower hidden deep within the nearby woods. It was said to hold a mysterious and magical artifact, an enchanted lantern with the power to grant any one wish to its possessor. The legend intrigued Lucas, and he could not resist the allure of the tower and the promise it held.
