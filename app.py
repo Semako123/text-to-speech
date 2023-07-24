@@ -1,5 +1,5 @@
 from dotenv import load_dotenv, find_dotenv
-import os
+import os, requests
 
 load_dotenv(find_dotenv())
 
@@ -13,3 +13,4 @@ print(story_text)
 
 def load_audio(texts):
     pass
+        
